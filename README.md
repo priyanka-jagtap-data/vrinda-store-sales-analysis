@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes Vrinda Store's 2022 retail sales data using Microsoft Excel. Is t exploresales performance, customer demographics, order status, and sales distribution across channels and states.
+This project analyzes Vrinda Store's 2022 retail sales data using Microsoft Excel.it explore sales performance, customer demographics, order status, and sales distribution across channels and states.
 
 ## Business Objectives
 
